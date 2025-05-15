@@ -15,12 +15,9 @@ A clean and customizable timer app built using **SwiftUI**. Perfect for focus se
 
 ## Screenshots
 
-<!-- Add screenshots here once available -->
-<p align="center">
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 19 42 38](https://github.com/user-attachments/assets/6c775a22-ff1e-469d-b9fc-c24c5551e51b)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 19 41 23](https://github.com/user-attachments/assets/4204cc4f-f8d9-446e-93ce-2835493372d4)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 19 41 12](https://github.com/user-attachments/assets/1d38118f-c965-4b69-8c5e-762c6b498621)
-</p>
 
 ---
 

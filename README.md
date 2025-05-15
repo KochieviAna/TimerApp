@@ -18,6 +18,7 @@ A clean and customizable timer app built using **SwiftUI**. Perfect for focus se
   <img src="https://github.com/user-attachments/assets/6c775a22-ff1e-469d-b9fc-c24c5551e51b" width="300"/>
   <img src="https://github.com/user-attachments/assets/4204cc4f-f8d9-446e-93ce-2835493372d4" width="300"/>
   <img src="https://github.com/user-attachments/assets/1d38118f-c965-4b69-8c5e-762c6b498621" width="300"/>
+
 ---
 
 ## Installation
